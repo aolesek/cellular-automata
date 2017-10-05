@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automaton.VonNeumanNeighbourhoodTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-10-05T17:01:18" hostname="arek-dell" time="0.0">
+  <properties/>
+  <testcase name="cornerNeighborsTest_noWrapping" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <testcase name="cornerNeighborsTest_wrapping" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <testcase name="simpleNeighborsTestRad2" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <testcase name="cornerNeighborsTest_wrappingRad2" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <testcase name="simpleNeighborsTest" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <testcase name="cornerNeighborsTest_noWrappingRad2" classname="automaton.VonNeumanNeighbourhoodTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
